@@ -6,7 +6,7 @@ Actividades y proyectos desarrollados para la materia de Machine Learning.
 
 - [Análisis de cereales](./Análisis_Cereales) — Exploración de datos, identificación de variables y propuesta de variable objetivo
 - [Estadística descriptiva — Titanic](./Titanic_Estadistica) — Medidas de tendencia central, tablas cruzadas y visualizaciones
-- [Distribuciones y limpieza de datos](./Distribuciones y limpieza de datos)
+- [Distribuciones y limpieza de datos](./Exploración_de_distribuciones_y_limpieza_de_datos)
 
 ## Herramientas
 
