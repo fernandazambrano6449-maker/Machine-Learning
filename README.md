@@ -6,7 +6,8 @@ Actividades y proyectos desarrollados para la materia de Machine Learning.
 
 - [Análisis de cereales](./Análisis_Cereales) — Exploración de datos, identificación de variables y propuesta de variable objetivo
 - [Estadística descriptiva — Titanic](./Titanic_Estadistica) — Medidas de tendencia central, tablas cruzadas y visualizaciones
+- [Probabilidad y distribuciones — Seguros médicos](./Seguros_Medicos) — Limpieza de datos, ajuste a distribución normal y transformación logarítmica
 
 ## Herramientas
 
-Python, pandas, numpy, matplotlib, seaborn
+Python, pandas, numpy, matplotlib, seaborn, scipy
